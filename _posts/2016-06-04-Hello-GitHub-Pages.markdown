@@ -1,11 +1,14 @@
 ---
 layout: post
 title:  "Hello GitHub Pages!"
-date:   2016-06-04 01
+date:   2016-06-04 11:11:18 +0800
 categories: GitHub
 tags: GitHub
 excerpt: 使用GitHub Pages搭建博客成功~！
 ---
+
+* content
+{:toc}
 
 哇偶，可以用MarkDown写作，在GitHub Pages发博客喽~
 
